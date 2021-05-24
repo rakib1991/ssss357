@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.Header{
+    background-color: coral;
+    height: 100px;
+    text-align: center;
+}
+.Navigation{
+    background-color: darkcyan;
+    height: 100px;
+    text-align: center;
+}
+.Left-Item{
+    background-color: darkgoldenrod;height: 300px;
+    width: 33.33%;
+    text-align: center;
+    float: left;
+}
+.Middle-Item{
+    background-color: darkmagenta;height: 300px;
+    width: 33.33%;
+    text-align: center;
+    float: left;
+
+}
+.Right-Item{
+    background-color: darkorange;height: 300px;
+    width: 33.33%;
+    text-align: center;
+    float: left;
+}
+.Footer{
+    background-color: deeppink;
+
+    text-align: center;
+
+}
